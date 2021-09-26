@@ -1,3 +1,2 @@
-# IMAG
-Imaginary Spring project
+# Imaginary Spring project
 Testing new and old things
